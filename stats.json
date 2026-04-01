@@ -1,1 +1,23 @@
-{"leetcode":{"easy":1,"hard":0,"medium":1,"shas":{"0001-two-sum":{"0001-two-sum.java":"6f68f5ce7da34aa4bd09a3e0d7a92d691fd839b7","README.md":"295832280eacc9b202138f15adc074a9cb24c66f","difficulty":"easy"},"README.md":{"":"3d68a3c56a752d00029bb553c10b7a12f72378e4"},"0002-add-two-numbers":{"0002-add-two-numbers.java":"b7e9b643f9f22dd675b5a55c21dd04b5064e2156","README.md":"466f5e31bfeb151e70b5b325c379cf04183ebb57","difficulty":"medium"}},"solved":2}}
+{
+  "leetcode": {
+    "easy": 1,
+    "hard": 0,
+    "medium": 1,
+    "shas": {
+      "0001-two-sum": {
+        "0001-two-sum.java": "6f68f5ce7da34aa4bd09a3e0d7a92d691fd839b7",
+        "README.md": "295832280eacc9b202138f15adc074a9cb24c66f",
+        "difficulty": "easy"
+      },
+      "README.md": {
+        "": "3d68a3c56a752d00029bb553c10b7a12f72378e4"
+      },
+      "0002-add-two-numbers": {
+        "0002-add-two-numbers.java": "b7e9b643f9f22dd675b5a55c21dd04b5064e2156",
+        "README.md": "466f5e31bfeb151e70b5b325c379cf04183ebb57",
+        "difficulty": "medium"
+      }
+    },
+    "solved": 2
+  }
+}
