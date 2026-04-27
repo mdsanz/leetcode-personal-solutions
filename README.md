@@ -57,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mdsanz/leetcode-personal-solutions/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/mdsanz/leetcode-personal-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+## Depth-First Search
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/mdsanz/leetcode-personal-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/mdsanz/leetcode-personal-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
