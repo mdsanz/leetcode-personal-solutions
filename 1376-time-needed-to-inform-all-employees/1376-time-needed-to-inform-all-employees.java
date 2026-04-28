@@ -12,17 +12,19 @@ class Solution {
             }
         }
 
-        int time = dfs(graph, headID, informTime);
-        return time;
+        int result = dfs(graph, headID, informTime);
+
+        return result;
     }
 
-        private int dfs(List<List<Integer>> graph, int node, int[] informTime) {
+    private int dfs(List<List<Integer>> graph, int node, int[] informTime) {
         if (graph.get(node).isEmpty()) return 0;
 
         int maxTime = 0;
 
         for (int subordinate : graph.get(node)) {
             int time = dfs(graph, subordinate, informTime);
+
             maxTime = Math.max(maxTime, time);
         }
 
