@@ -12,7 +12,8 @@ class Solution {
             }
         }
 
-        return dfs(graph, headID, informTime);
+        int time = dfs(graph, headID, informTime);
+        return time;
     }
 
         private int dfs(List<List<Integer>> graph, int node, int[] informTime) {
